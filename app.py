@@ -6,7 +6,7 @@ Chào mừng bạn đến với Kachion Write Code! Bạn cảm thấy mệt m�
 Đừng lo đã có Kachion ở đây ! Mình sẽ là người giúp bạn viết code với nhiều nhiều ngôn ngữ lập trình khác. 
 Cho dù bạn là nhà phát triển có nhiều kinh nghiệm hay mới bắt đầu, 
 Kachion Write Code là nơi hoàn hảo để nhận trợ giúp mà bạn cần.
-Còn chờ gì nữa ! Bắt đầu sử dụng Anonyviet Write Code ngay và luôn
+Còn chờ gì nữa ! Bắt đầu sử dụng Kachion Write Code ngay và luôn
 """
 
 st.markdown("<h1 style='text-align: center;'>Kachion Write Code ✨</h1>", unsafe_allow_html=True)
