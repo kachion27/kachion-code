@@ -3,9 +3,9 @@ import streamlit as st
 
 view = """
 Chào mừng bạn đến với Kachion Write Code! Bạn cảm thấy mệt mỏi khi phải vật lộn để tự viết code
-Đừng lo đã có Anonyviet ở đây ! Mình sẽ là người giúp bạn viết code với nhiều nhiều ngôn ngữ lập trình khác. 
+Đừng lo đã có Kachion ở đây ! Mình sẽ là người giúp bạn viết code với nhiều nhiều ngôn ngữ lập trình khác. 
 Cho dù bạn là nhà phát triển có nhiều kinh nghiệm hay mới bắt đầu, 
-Anonyviet Write Code là nơi hoàn hảo để nhận trợ giúp mà bạn cần.
+Kachion Write Code là nơi hoàn hảo để nhận trợ giúp mà bạn cần.
 Còn chờ gì nữa ! Bắt đầu sử dụng Anonyviet Write Code ngay và luôn
 """
 
@@ -13,7 +13,7 @@ st.markdown("<h1 style='text-align: center;'>Kachion Write Code ✨</h1>", unsaf
 st.markdown("---")
 with st.sidebar:
     st.image("kachion.png")
-    st.title("Anonyviet")
+    st.title("Kachion")
     st.caption(f'''{view}''', unsafe_allow_html=False)
    
 language=st.selectbox("Lựa chọn 1 ngôn ngữ mà bạn muốn:", ("Python", "C++", "Java", "Pascal"))
